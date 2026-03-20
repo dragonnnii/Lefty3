@@ -1,0 +1,10 @@
+{
+  "Name": "W-Key Click Swapper",
+  "Author": "User",
+  "Version": "1.0.0",
+  "Description": "Toggles right-click mode using the W key for mobile accessibility.",
+  "UniqueID": "User.WClickSwapper",
+  "EntryDll": "WClickSwapper.dll",
+  "MinimumApiVersion": "4.0.0",
+  "UpdateKeys": []
+}

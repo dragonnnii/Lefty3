@@ -1,0 +1,12 @@
+<Project Sdk="Microsoft.NET.Sdk">
+  <PropertyGroup>
+    <TargetFramework>net6.0</TargetFramework>
+    <AssemblyName>WClickSwapper</AssemblyName>
+    <RootNamespace>WClickSwapper</RootNamespace>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="StardewModdingAPI" Version="4.0.0" />
+    <PackageReference Include="StardewValley" Version="1.6.0" />
+  </ItemGroup>
+</Project>
